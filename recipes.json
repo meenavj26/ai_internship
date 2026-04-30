@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Chicken pasta bake",
+        "ingredients": [
+            "300g pasta",
+            "2 chicken breasts",
+            "1 onion",
+            "2 garlic cloves",
+            "400g tomato sauce",
+            "100g cheese",
+            "1 tbsp olive oil",
+            "Salt",
+            "Black pepper",
+            "Mixed herbs"
+        ]
+    },
+    {
+        "title": "Creamy mushroom pasta",
+        "ingredients": [
+            "300g pasta",
+            "250g mushrooms",
+            "2 garlic cloves",
+            "200ml cream",
+            "1 onion",
+            "Parmesan cheese",
+            "1 tbsp butter",
+            "Salt",
+            "Black pepper",
+            "Parsley"
+        ]
+    },
+    {
+        "title": "Cajun chicken pasta",
+        "ingredients": [
+            "300g pasta",
+            "2 chicken breasts",
+            "1 onion",
+            "1 bell pepper",
+            "200ml cream",
+            "1 tbsp Cajun seasoning",
+            "2 garlic cloves",
+            "1 tbsp olive oil",
+            "Salt",
+            "Black pepper"
+        ]
+    }
+]
